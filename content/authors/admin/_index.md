@@ -14,7 +14,7 @@ pronouns: she/her
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -37,11 +37,9 @@ profiles:
     url: 'mailto:your-email@example.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://x.com/hellentxs
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/hellentxs
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
@@ -50,9 +48,10 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Environmental Sociology
+  - Cultural Sociology
+  - Computational Social Science
+  - Economic Sociology
 
 education:
   - area: PhD Artificial Intelligence
@@ -186,4 +185,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Xiaosu Tian is a PhD candidate of Sociology at the University of Oregon. She uses computational and historical methods to understand how cultural politics of "nature" influence economic activities.
