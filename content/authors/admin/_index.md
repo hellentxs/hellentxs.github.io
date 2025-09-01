@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 田小粟
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Tian Xiaosu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Xiaosu
+last_name: Tian
 
 # Pronouns (optional)
 pronouns: she/her
@@ -23,12 +23,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Department of Sociology, University of Oregon
+    url: https://socialsciences.uoregon.edu/sociology
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
