@@ -1,6 +1,7 @@
 ---
 title: Research
 cms_exclude: true
+type: landing
 
 # View.
 view: citation

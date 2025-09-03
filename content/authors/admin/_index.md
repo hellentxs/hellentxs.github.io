@@ -86,4 +86,4 @@ education:
 
 ## About Me
 
-Xiaosu Tian is a PhD candidate of Sociology at the University of Oregon. She uses computational and historical methods to understand how cultural politics of "nature" influence economic activities.
+Xiaosu (Hellen) Tian is a PhD candidate of Sociology at the University of Oregon. She uses computational and historical methods to understand how cultural politics of "nature" influence economic activities.
