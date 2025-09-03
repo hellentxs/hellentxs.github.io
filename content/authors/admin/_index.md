@@ -6,7 +6,7 @@ title: 田小粟
 name_pronunciation: Tian Xiaosu
 
 # Full name (for SEO)
-first_name: Xiaosu
+first_name: Xiaosu (Hellen)
 last_name: Tian
 
 # Pronouns (optional)

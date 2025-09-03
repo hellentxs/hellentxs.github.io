@@ -30,7 +30,7 @@ sections:
           # Add your image background to `assets/media/`.
           filename: IMG_0915.jpeg
           filters:
-            brightness: 0.6
+            brightness: 0.7
           size: cover
           position: center
           parallax: false
@@ -52,7 +52,7 @@ sections:
       text: ""
       filters:
         folders:
-          - publication
+          - research
         exclude_featured: false
     design:
       view: citation
