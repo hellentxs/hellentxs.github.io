@@ -1,5 +1,5 @@
 ---
-title: My page
+title: Contact
 type: landing
 
 sections:
@@ -39,11 +39,7 @@ sections:
           id: ''
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
-      # Coordinates to display a map - set your map provider in `params.yaml`
-      coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
+          captcha: true
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
