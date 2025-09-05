@@ -60,7 +60,8 @@ sections:
     content:
       title: 'Contact'
       subtitle: ''
-      text: |- Feel free to get in touch.
+      text: |- 
+        Feel free to get in touch.
 
 
 ---
