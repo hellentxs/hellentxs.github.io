@@ -56,4 +56,11 @@ sections:
         exclude_featured: false
     design:
       view: citation
+  - block: markdown
+    content:
+      title: 'Contact'
+      subtitle: ''
+      text: |- Feel free to get in touch.
+
+
 ---
